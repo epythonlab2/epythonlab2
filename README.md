@@ -39,6 +39,17 @@
 - RFM Model Development(Customer Risk Classification)
 - Machine Learn Model(Predicting Customer Risk)
 - [Report](https://drive.google.com/file/d/1uHfbQgn_aJbqBMEMdRtDFrirHN3BxLR7/view?usp=sharing)
+
+### [GMS Investments Portfolio Optimization](https://github.com/epythonlab/gmf-investments-portfolio-forecasting)
+**Description:** This project leverages time series forecasting models to enhance portfolio management strategies for Guide Me in Finance (GMF) Investments. Using historical data for key financial assets—Tesla (TSLA), Vanguard Total Bond Market ETF (BND), and S&P 500 ETF (SPY)—we aim to forecast market trends, optimize asset allocation, and manage risk. By incorporating ARIMA, SARIMA, and LSTM models, this project enables GMF Investments to offer clients data-driven investment recommendations.
+
+**Tools Used:** Python, Flask, Sklearn, Visualization Tools
+
+**Key Features:**
+- Market Trend Forecasting: Predict future market trends for TSLA, BND, and SPY to anticipate asset performance.
+- Portfolio Optimization: Use forecasted insights to optimize portfolio allocation, balancing high returns with risk management.
+- Risk Management: Adjust portfolio strategy based on predicted volatility and market trends to minimize client exposure to risks.
+- [Report](https://drive.google.com/file/d/1S3XBLdJ3LWr3pCcLrcw_7N6PD9gA0x5p/view?usp=sharing)
   
 ### [Fraud Detection](https://github.com/epythonlab/fraud-detection)
 **Description:** This project leverages machine learning to detect fraudulent transactions in e-commerce and banking, aiding in proactive security and risk management. The goal is to provide a robust fraud detection pipeline with explainability, deployment, and dashboard visualization for actionable insights.
