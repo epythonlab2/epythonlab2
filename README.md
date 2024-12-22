@@ -40,7 +40,7 @@
 - Machine Learn Model(Predicting Customer Risk)
 - [Report](https://drive.google.com/file/d/1uHfbQgn_aJbqBMEMdRtDFrirHN3BxLR7/view?usp=sharing)
 
-### [GMS Investments Portfolio Optimization](https://github.com/epythonlab/gmf-investments-portfolio-forecasting)
+### [GMF Investments Portfolio Optimization](https://github.com/epythonlab/gmf-investments-portfolio-forecasting)
 **Description:** This project leverages time series forecasting models to enhance portfolio management strategies for Guide Me in Finance (GMF) Investments. Using historical data for key financial assets—Tesla (TSLA), Vanguard Total Bond Market ETF (BND), and S&P 500 ETF (SPY)—we aim to forecast market trends, optimize asset allocation, and manage risk. By incorporating ARIMA, SARIMA, and LSTM models, this project enables GMF Investments to offer clients data-driven investment recommendations.
 
 **Tools Used:** Python, Flask, Sklearn, Visualization Tools
