@@ -3,7 +3,7 @@
 
 ## About Us
 - 🌱 At **Epython Lab**, I specialize in providing **Data Engineering**, **Data Science**, and **Web Development** solutions.
-- 💼 Our team is passionate about **analyzing datasets**, uncovering insights, and developing strategies to help businesses grow.
+- 💼 I am passionate about **analyzing datasets**, uncovering insights, and developing strategies to help businesses grow.
 - 🚀 I have expertise in **Python**, **SQL**, **Flask**, **Streamlit**, **Power BI**, **Tableau**, and **Teaching**.
 - 📚 I am committed to continuous learning and innovation, expanding our capabilities in **machine learning**, **data visualization**, and **web technologies**.
 
@@ -19,7 +19,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=epythonlab2&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab2&layout=compact&theme=radical)
 
-## 📫 How to Reach Us
+## 📫 Reach Out Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/epythonlab)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.mem/epythonlab)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@epythonlab)
