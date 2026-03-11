@@ -1,13 +1,11 @@
 
 # Hi there, Welcome to Epython Lab 👋
 
-![GitHub followers](https://img.shields.io/github/followers/epythonlab?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/epythonlab?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 ## About Us
-- 🌱 At **Epython Lab**, we specialize in providing **Data Engineering**, **Data Science**, and **Web Development** solutions.
+- 🌱 At **Epython Lab**, I specialize in providing **Data Engineering**, **Data Science**, and **Web Development** solutions.
 - 💼 Our team is passionate about **analyzing datasets**, uncovering insights, and developing strategies to help businesses grow.
-- 🚀 We have expertise in **Python**, **SQL**, **Flask**, **Streamlit**, **Power BI**, **Tableau**, and **Teaching**.
-- 📚 We are committed to continuous learning and innovation, expanding our capabilities in **machine learning**, **data visualization**, and **web technologies**.
+- 🚀 I have expertise in **Python**, **SQL**, **Flask**, **Streamlit**, **Power BI**, **Tableau**, and **Teaching**.
+- 📚 I am committed to continuous learning and innovation, expanding our capabilities in **machine learning**, **data visualization**, and **web technologies**.
 
 ## 🛠️ Technologies & Tools We Use
 
@@ -18,8 +16,8 @@
 | ![SQL](https://img.shields.io/badge/SQL-02569B?style=for-the-badge&logo=postgresql&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | |
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=epythonlab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=epythonlab2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab2&layout=compact&theme=radical)
 
 ## 📫 How to Reach Us
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/epythonlab)
