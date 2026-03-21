@@ -76,5 +76,5 @@
 
 
 ## 💬 Let's Collaborate!
-Check more projects at **[Epython Lab] (https://github.com/epythonlab))**, we are always open to new opportunities and partnerships. Contact us for collaboration, consulting, or any data-driven project needs!
+Check more projects at **[Epython Lab](https://github.com/epythonlab))**, we are always open to new opportunities and partnerships. Contact us for collaboration, consulting, or any data-driven project needs!
 
