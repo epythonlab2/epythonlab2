@@ -28,7 +28,7 @@
 
 ## 💡 Featured Projects
 ### [Credit Scoring Model](https://github.com/epythonlab/bati-bank-credit-scoring)
-**Description:** A machine learning model developed to predict credit risk and assign credit scores, supporting data-driven lending decisions for Bati Bank's Buy-Now-Pay-Later (BNPL) service in collaboration with an eCommerce platform.
+**Description:** A machine learning model developed to predict credit risk and assign credit scores, supporting data-driven lending decisions for Bati Bank's Buy-Now-Pay-Later (BNPL) service in collaboration with an e-commerce platform.
 
 **Tools Used:** Python, Flask, Sklearn, Visualization Tools
 
@@ -38,30 +38,6 @@
 - Machine Learn Model(Predicting Customer Risk)
 - [Report](https://drive.google.com/file/d/1uHfbQgn_aJbqBMEMdRtDFrirHN3BxLR7/view?usp=sharing)
 
-### [GMF Investments Portfolio Optimization](https://github.com/epythonlab/gmf-investments-portfolio-forecasting)
-**Description:** This project leverages time series forecasting models to enhance portfolio management strategies for Guide Me in Finance (GMF) Investments. Using historical data for key financial assets—Tesla (TSLA), Vanguard Total Bond Market ETF (BND), and S&P 500 ETF (SPY)—we aim to forecast market trends, optimize asset allocation, and manage risk. By incorporating ARIMA, SARIMA, and LSTM models, this project enables GMF Investments to offer clients data-driven investment recommendations.
-
-**Tools Used:** Python, Flask, Sklearn, Visualization Tools
-
-**Key Features:**
-- Market Trend Forecasting: Predict future market trends for TSLA, BND, and SPY to anticipate asset performance.
-- Portfolio Optimization: Use forecasted insights to optimize portfolio allocation, balancing high returns with risk management.
-- Risk Management: Adjust portfolio strategy based on predicted volatility and market trends to minimize client exposure to risks.
-- [Report](https://drive.google.com/file/d/1S3XBLdJ3LWr3pCcLrcw_7N6PD9gA0x5p/view?usp=sharing)
-  
-### [Fraud Detection](https://github.com/epythonlab/fraud-detection)
-**Description:** This project leverages machine learning to detect fraudulent transactions in e-commerce and banking, aiding in proactive security and risk management. The goal is to provide a robust fraud detection pipeline with explainability, deployment, and dashboard visualization for actionable insights.
-
-**Tools Used:** Python, Flask, Sklearn, Visualization Tools, Docker, MLflow
-
-**Key Features**
-- Data Analysis & Preprocessing: Handling missing values, data cleaning, and feature engineering for fraud detection.
-- Model Building & Training: Comparison of multiple models, including deep learning architectures (CNN, RNN, LSTM).
-- Explainability: Interpretation using SHAP and LIME for feature influence insights.
-- Deployment: API service for real-time fraud predictions via Flask, Dockerized for scalability.
-- Dashboard: Interactive visualization of fraud insights using Dash.
-
-- [Report](https://drive.google.com/file/d/1X6gPDgqvUHzct_gxw0p0XHB6vX-GpLaz/view?usp=sharing)
 
 ### [Medical Datawarehouse](https://github.com/epythonlab/EthiomedDataWarehouse)
 **Description:** A comprehensive data warehouse solution for Ethiopian medical business data scraped from Telegram channels, including data scraping, object detection with YOLO, and ETL/ELT processes.
@@ -85,15 +61,10 @@
 
 **Key Features:**
 - Extract Amharic Telegram Messages(E-commerce channels)
-- Labeling the extracting messages(NER)
+- Labeling the extracted messages(NER)
 - Train the model using Deep Learning(LLM)
 - [Report](https://drive.google.com/file/d/1F-GSaDif56-sAzwCFQUVw1wQgfAHT0Hx/view?usp=drive_link))
   
-### [Predictive Analytics for Business](https://github.com/epythonlab/Predictive-analytics-for-business)
-**Description:** This project mainly focused on predictive analytics for business. In this project repo, there are 6 different predictive projects you can explore each of them.  
-
-**Tools Used:** Python, Tableau, Alteryx.
-
 ### [Github Repo Search Tool](https://github.com/epythonlab/github-search-tool)
 **Description:** This project mainly focused on the GitHub Search Tool, which provides enhanced search functionality and allows users to find repositories based on topics, ratings, and programming languages.
 
@@ -103,53 +74,7 @@
 - Search by programming
 - Search by Topic
 
-### [Financial News and Stock Market Analysis](https://github.com/epythonlab/aim10academy-week1-challenge)
-**Description:** The project is designed to enhance stock market predictions by combining quantitative and qualitative data.
-
-**Tools Used:** Python, Matplotlib, NLP, etc.  
-**Key Features:**
-- Sentiment Analysis
-- Correlation Analysis
-- Financial Quantitative Analysis
-[**Project Report**](https://drive.google.com/file/d/1tT5_5zNlEtnsw3WUMd9OqxrJ9zUb8udS/view?usp=sharing)
-
-### [Rossmann Pharma Sales Prediction](https://github.com/epythonlab/rossmann-pharma-sales-prediction)
-**Description:** A machine learning solution to forecast sales for Rossmann Pharmaceuticals' stores across various cities six weeks in advance. Factors like promotions, competition, holidays, seasonality, and locality are considered for accurate predictions. The project structure is organized to support reproducible and scalable data processing, modeling, and visualization.
-
-**Tools Used:** Python, Matplotlib, Seaborn, Tensorflow Scikitlearn, etc.  
-**Key Features:**
-- Customer Behavior Analysis(EDA)
-- Data Preprocessing(Feature Engineering)
-- Sales Prediction(RandomForestRegressor)
-- Sales Forecasting using a Deep Learning Model
-[**Project Report**](https://drive.google.com/file/d/1m-rWuADL_9nMiitxRzAzZjHxz2Pqp58-/view?usp=sharing)
-  
-### [Car Insurance Risk Analysis and Premium Optimization](https://github.com/epythonlab/Car-Insurance-Risk-Analysis-and-Premium-Optimization)
-**Description:** A project analyzing car insurance claims data to optimize premiums and marketing strategies.
-
-**Tools Used:** Python, Matplotlib, Seaborn, sci-kit-learn,scipy, shap etc.  
-**Key Features:** 
-- Statistical modeling using Machine Learning Models
-- A/B hypothesis testing
-- Visualization
-[**Project Report**](https://drive.google.com/file/d/1BsMAfxMEa3K5hHSfOhC2jf5oS6mHjqdq/view?usp=sharing)
-
-### [User Behavior Analysis](https://github.com/epythonlab/10academy-aim-week2-challenge)
-**Description:** focused on comprehensively analyzing user behavior, engagement, experience, and satisfaction in a telecom dataset.  
-
-**Tools Used:** Python, Matplotlib, sci-kit-learn, etc.  
-**Key Features:**
-- User Overview Analysis: Analyze handset usage, manufacturers, and application usage.
-- User Engagement Analysis: Track engagement across different applications and cluster users based on engagement metrics.
-- Experience Analytics: Assess user experience based on network parameters and device characteristics.
-- Satisfaction Analysis: Calculate and predict user satisfaction scores based on engagement and experience.
-[**Project Report**](https://drive.google.com/file/d/111eb2PTeK_tHcQlirxwidoMdjqVeEUke/view?usp=sharing)
-
-## 🎨 Our Values
-- 📊 **Data-Driven Decisions**: We help businesses leverage their data to make smarter decisions.
-- 💡 **Innovation**: We constantly explore new technologies and methodologies to provide cutting-edge solutions.
-- 🤝 **Collaboration**: Our work culture thrives on collaboration with clients and partners to ensure the best outcomes.
 
 ## 💬 Let's Collaborate!
-At **Epython Lab**, we are always open to new opportunities and partnerships. Contact us for collaboration, consulting, or any data-driven project needs!
+Check more projects at **[Epython Lab] (https://github.com/epythonlab))**, we are always open to new opportunities and partnerships. Contact us for collaboration, consulting, or any data-driven project needs!
 
